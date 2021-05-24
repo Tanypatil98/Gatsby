@@ -8,4 +8,3 @@
   Gatsby's Blog Site
 </h1>
 
-<!-- AUTO-GENERATED-CONTENT:END -->
